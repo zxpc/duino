@@ -1,3 +1,9 @@
 
 Arduino projekt na serveru http://github.com/zxpc/duino
 
+git (read only):
+git://github.com/zxpc/duino.git
+
+git (read+write) pres SSH:
+git@github.com:zxpc/duino.git
+
